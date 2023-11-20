@@ -1,0 +1,25 @@
+body{
+    background-color: #f5f5f5;
+}
+.navbar {
+    display: flex;
+    justify-content: center;
+}
+
+.navbar-nav {
+    list-style: none;
+    display: flex;
+}
+
+footer{
+  background-color: #cccccc;
+}
+h1{
+    font-family: 'Caveat', cursive;
+font-family: 'Cedarville Cursive', cursive;
+font-family: 'Julee', cursive;
+font-family: 'La Belle Aurore', cursive;
+font-family: 'Playball', cursive;
+font-family: 'Qwigley', cursive;
+font-family: 'Satisfy', cursive;
+}
